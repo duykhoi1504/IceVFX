@@ -32,7 +32,7 @@ public class FreezeMaterial : MonoBehaviour
     // Update is called once per frame
     public void FreezeAnim()
     {
-
+        
 
         // setarive OutLine , Negative, Shine truoc khi su dung
         int shineLocation = Shader.PropertyToID("_ShineLocation");
